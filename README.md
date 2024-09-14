@@ -1,4 +1,3 @@
 # latihan-branch
-
-## Alternate Syntax
-Alternatively, on the line below the text, add any number of == characters for heading level 1 or -- characters for heading level 2.
+## Overview
+Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
